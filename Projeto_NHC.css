@@ -1,0 +1,82 @@
+
+   header {
+  background-image: linear-gradient(to bottom, #4A2885, #EBF5FC);
+	background-size: cover;
+	background-repeat: no repeat;
+	background-position: center;
+	background-attachment: fixed;
+  border: 4px ridge black;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+  margin: auto;
+  
+   
+  }
+  
+  
+  body{
+    font-family: Comic Sans MS;
+	font-size: 20px;
+	
+  
+  }
+   
+	
+
+  
+   h1 {
+    text-align: center;
+	  font-family: Castellar;
+  	color: black;
+    text-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
+	
+   }
+   
+    h2 {
+    text-align: center;
+	font-family: Castellar;
+	}
+   
+   .bora {
+     display: flex;
+	 tex-align: center;
+   }
+   
+   main {
+  background-image: linear-gradient(to bottom, #4A2885, #EBF5FC);
+	background-size: cover;
+	background-repeat: no repeat;
+	background-position: center;
+	background-attachment: fixed;
+  border: 4px ridge black;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+  margin: auto;
+   }
+   
+   img {
+    border-top: 4px ridge black;
+    border-right: 4px ridge black;
+    border-bottom: 4px ridge black;
+    border-left: 4px ridge black;
+   }
+   
+   .p {
+    border-top: 4px ridge black;
+   }
+
+.ui {
+  list-style: none;        
+  display: flex;           
+  gap: 20px;              
+  padding: 0;
+  margin: 0;
+  
+}
+  
+  .ui a {
+     color: #FFFFFF;
+     text-decoration: none;
+  }

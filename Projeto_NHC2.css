@@ -1,6 +1,6 @@
 
    header {
-    background-image: linear-gradient(to bottom, #4A2885, #EBF5FC);
+  background-image: linear-gradient(to bottom, #4A2885, #EBF5FC);
 	background-size: cover;
 	background-repeat: no repeat;
 	background-position: center;
@@ -18,6 +18,7 @@
   body{
     font-family: Comic Sans MS;
 	font-size: 20px;
+    background-image: url(https://i.pinimg.com/736x/6b/b5/37/6bb5376bf461a299f643d17d95396a62.jpg)
 	
   
   }
@@ -25,19 +26,38 @@
 	
 
   
-   h1 {
+   .n {
     text-align: center;
 	  font-family: Castellar;
+	  background: green;
   	color: black;
     text-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
 	
    }
    
-    h2 {
+    .n {
     text-align: center;
+	background: green;
 	font-family: Castellar;
 	}
    
+   .bora {
+     display: flex;
+	 tex-align: center;
+   }
+   
+   main {
+  background-image: linear-gradient(to bottom, #4A2885, #EBF5FC);
+	background-size: cover;
+	background-repeat: no repeat;
+	background-position: center;
+	background-attachment: fixed;
+  border: 4px ridge black;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+   margin: 0px 200px 0px;
+   }
    
    img {
     border-top: 4px ridge black;
@@ -63,3 +83,34 @@
      color: #FFFFFF;
      text-decoration: none;
   }
+
+footer {
+  background-image: linear-gradient(to bottom, #4A2885, #EBF5FC);
+	background-size: cover;
+	background-repeat: no repeat;
+	background-position: center;
+	background-attachment: fixed;
+  border: 2px ridge black;
+  margin: 50px 0px 10px;
+  
+}
+   
+footer nav a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.n {
+  text-align: center;
+	font-family: Castellar;
+  color: black;
+  text-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
+	background-color: green;
+
+ .dscp {
+  text-align: center;
+	font-family: Castellar;
+  color: black;
+  text-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
+}

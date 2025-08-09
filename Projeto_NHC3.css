@@ -34,7 +34,7 @@
     border-left: 4px ridge black;
 }
    
-   p {
+   .p {
     border-top: 4px ridge black;
 }
 
@@ -112,4 +112,9 @@
     color: black;
     text-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
 }
+
+    .pi {
+	  border: none;
+}
+	
   

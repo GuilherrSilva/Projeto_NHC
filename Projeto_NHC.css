@@ -1,15 +1,15 @@
 
    header {
-  background-image: linear-gradient(to bottom, #4A2885, #EBF5FC);
+    background-image: linear-gradient(to bottom, #4A2885, #EBF5FC);
 	background-size: cover;
 	background-repeat: no repeat;
 	background-position: center;
 	background-attachment: fixed;
-  border: 4px ridge black;
-  padding-top: 10px;
-  padding-right: 10px;
-  padding-left: 10px;
-  margin: auto;
+    border: 4px ridge black;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin: auto;
   
    
   }
@@ -20,7 +20,6 @@
 	font-size: 20px;
 	background-image: url(https://i.pinimg.com/736x/6b/b5/37/6bb5376bf461a299f643d17d95396a62.jpg);
    
-  
   }
    
 	
@@ -34,12 +33,6 @@
 	background-color: blue;
 	
    }
-   
-    .n {
-    text-align: center;
-	font-family: Castellar;
-	background-color: blue;
-	}
    
    .bora {
      display: flex;
@@ -92,7 +85,7 @@
 	align-items: center;
   }
 
- section {
+   section {
     display: flex;
 	
 }
@@ -106,7 +99,7 @@
    }
    
    footer {
-  background-image: linear-gradient(to bottom, #4A2885, #EBF5FC);
+    background-image: linear-gradient(to bottom, #4A2885, #EBF5FC);
 	background-size: cover;
 	background-repeat: no repeat;
 	background-position: center;
@@ -117,24 +110,22 @@
 }
    
    footer nav a {
-  color: white;
-  text-decoration: none;
-  font-weight: bold;
+     color: white;
+     text-decoration: none;
+     font-weight: bold;
 }
 
-.n {
-  text-align: center;
-  font-family: Castellar;
-  color: black;
-  text-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
+  .n {
+    text-align: center;
+    font-family: Castellar;
+    color: black;
+    text-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
 	background-color: blue;
 
  .dscp {
-  text-align: center;
+    text-align: center;
 	font-family: Castellar;
-  color: black;
-  text-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
-  
-
+    color: black;
+    text-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
 }
 

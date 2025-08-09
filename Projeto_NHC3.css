@@ -1,26 +1,23 @@
-    header {
+  header {
     background-image: linear-gradient(to bottom, #4A2885, #EBF5FC);
 	background-size: cover;
 	background-repeat: no repeat;
 	background-position: center;
 	background-attachment: fixed;
-  border: 4px ridge black;
-  padding-top: 10px;
-  padding-right: 10px;
-  padding-left: 10px;
-  margin: auto;
+    border: 4px ridge black;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin: auto;
   
-   
-  }
+}
   
   
   body{
     font-family: Comic Sans MS;
    	font-size: 20px;
-    background-image: url(https://i.pinimg.com/736x/6b/b5/37/6bb5376bf461a299f643d17d95396a62.jpg)
-	
-  
-  }
+    background-image: url(https://i.pinimg.com/736x/6b/b5/37/6bb5376bf461a299f643d17d95396a62.jpg);
+}
    
 	
 
@@ -35,91 +32,84 @@
     border-right: 4px ridge black;
     border-bottom: 4px ridge black;
     border-left: 4px ridge black;
-   }
+}
    
-   .p {
+   p {
     border-top: 4px ridge black;
-	
-   }
+}
 
-.ui {
-  list-style: none;        
-  display: flex;           
-  gap: 20px;              
-  padding: 0;
-  margin: 0;
+  .ui {
+    list-style: none;        
+    display: flex;           
+    gap: 20px;              
+    padding: 0;
+    margin: 0;
   
 }
   
   .ui a {
      color: #FFFFFF;
      text-decoration: none;
-  }
+}
   
   main {
 	  
-	  background-image: linear-gradient(to bottom, #4A2885, #EBF5FC);
+	background-image: linear-gradient(to bottom, #4A2885, #EBF5FC);
 	background-size: cover;
 	background-repeat: no repeat;
 	background-position: center;
 	background-attachment: fixed;
-  border: 4px ridge black;
-  padding-top: 10px;
-  padding-right: 10px;
-  padding-left: 10px;
-  margin: 20px 200px 0px;
-  }
+    border: 4px ridge black;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin: 20px 200px 0px;
+}
   
-  .pg{
-	  
+  .pg{	  
 	  list-style: none;        
       display: flex;           
       gap: 80x;              
       padding: 0;
-     margin:
-  }
+      margin:
+}
   
-  .cen {
-	  
+  .cen {  
 	  text-align: center;
-  }
+}
   
   
   img {
 	  margin: 20px 30px 40px;
-	  
-  }
+}
   
-    footer {
-  background-image: linear-gradient(to bottom, #4A2885, #EBF5FC);
+  footer {
+    background-image: linear-gradient(to bottom, #4A2885, #EBF5FC);
 	background-size: cover;
 	background-repeat: no repeat;
 	background-position: center;
 	background-attachment: fixed;
     border: 2px ridge black;
     margin: 50px 0px 10px;
-  
 }
    
    footer nav a {
-  color: white;
-  text-decoration: none;
-  font-weight: bold;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
 }
 
-.n {
-  text-align: center;
-  font-family: Castellar;
-  color: black;
-  text-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
-  background-color: brown;
+   .n {
+     text-align: center;
+     font-family: Castellar;
+     color: black;
+     text-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
+     background-color: brown;
 
- .dscp {
-  text-align: center;
+   .dscp {
+    text-align: center;
 	font-family: Castellar;
-  color: black;
-  text-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
-  
-
+    color: black;
+    text-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
 }
   
